@@ -1,16 +1,15 @@
-## Hi there 👋
+# "Experience"
+Chief architect of recursive abstraction for hypothetical solutions and theoretical implementation in the realm of post-ironic digital transformation. Former principal evangelist at vaporware development of situational systematic dependence and programmatic regression analysis. Lead team lead at corpcorp. 
 
-<!--
-**ashrafxbilal/ashrafxbilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Currently Learning
+- Industrial confusion & deliberately obtuse nomenclature
+- Force push and pray
+- Pre-emptive debugging (fixing bugs before writing the code)
+- Aggressive optimization of console.log() statements
+- verose abstraction (in the general sense as it applies to cubic regression)
+- liquification
+- analytical analysis
+- Ducks (the web-footed quacking ones)
 
-Here are some ideas to get you started:
+If 'spaghetti-code' ever becomes an official design pattern I'll deadass switch to programming exclusively in Shell (actually might just adopt COBOL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
